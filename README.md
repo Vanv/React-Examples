@@ -1,5 +1,8 @@
-# React-Examples
-React Examples for display text, Props, Event Handling etc 
+# React Examples
+React Examples for 
+     - Display Simple text 
+     - Props 
+     - Event Handling etc 
 
 Getting Started
 

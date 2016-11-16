@@ -19,4 +19,4 @@ to build
 to run 
 > npm start
 
-All the source are inside src/client/app
+Content is served from src/client/
